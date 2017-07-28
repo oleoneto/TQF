@@ -1,0 +1,103 @@
+English,Fun with Computers,15
+How is JavaScript related to Java?
+a. Programming Namespaces
+b. Classes and Objects
+c. Java Development Kit
+d. Graphic User Interframes
+b
+Structs in C differ from classes in C++ in that...
+a. Structs can only hold strings
+b. Classes can only hold integers
+c. Structs can not have methods
+d. Classes can not have methods
+c
+A string in Java is best described as...
+a. An object
+b. An array
+c. A linked list
+d. A System Scanner
+a
+Which one of the following is a primitive data type:
+a. String
+b. Char
+c. Array
+d. Character Array
+b
+wordpress.com and wordpress.org describe the same product?
+a. True
+b. False
+c. Both a and b
+d. Both a and c
+b
+C++ is considered a supersetter of C.
+a. Mostly
+b. True
+c. False
+d. Both a and c
+c
+John Applet's wife just had a baby. Is the baby a boy or a girl?
+a. A Boy
+b. A Girl
+c. Neither
+d. Yes
+d
+Class A publicly inherits from class B. What is true about B's private properties?
+a. They become public in B
+b. They remain private to B
+c. They become public in both A and B
+d. They remain private to both A and B
+d
+Lather, rinse, repeat...
+a. This will take a while
+b. For as long as you need it
+c. Else you don't get clean
+d. If it makes sense
+a
+What does the acronym API stand for?
+a. Application Protocols for the Internet
+b. Application Programming Interface
+c. Asynchronous Programming Interface
+d. Asynchronous Protocols for the Internet
+b
+Hardware, in short, is:
+a. Hard
+b. The part of the computer one can kick
+c. Everything difficult about technology
+d. Both a and b
+d
+Think of C: foo is a private integer of B, a class. How do you print the value of foo?
+a. Call a specific setter
+b. Call a specific getter
+c. Both a and b
+d. Do you?
+d
+Have some fun with this: a Nerdic, in programming terms, is:
+a. An inherited Swift class
+b. A programmer from Finland
+c. An extended JavaScript framework
+d. An coffee beans API
+b
+int x = 5.9; printf("%d", x); What's in the output?
+a. 5.9
+b. 5
+c. 6
+d. No output
+b
+"Javac Pet.java" will run the program Pet.java:
+a. No, but "Javac Pet" will
+b. Yes, but "Javac Pet" will also
+c. No
+d. Yes
+c
+What is the output for System.out.println("'Another day'");
+a. Another day
+b. 'Another day'
+c. "Another day"
+d. "'Another day'"
+b
+The word algorithm was coined to recognize Al Gore's contribution to computer science.
+a. It's algorithme. And, Yes! It was.
+b. Definitely must research this.
+c. Silence is golden.
+d. I can't get more confused.
+c
